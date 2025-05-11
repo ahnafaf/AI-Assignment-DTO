@@ -84,6 +84,7 @@ While this implementation uses lightweight local databases (SQLite and ChromaDB 
 By implementing a hybrid retrieval system that layers graph-based relationship understanding on top of semantic search and uses an LLM for final relevance filtering, this notebook demonstrates an effective way to retrieve user memories that are not just textually similar, but are truly relevant through indirect connections, addressing the core challenge of the assignment.
 
 ## Testing Set Output
+```output
 ✓ Database already contains 20 nodes. Skipping setup.
 
 ================================================================================
@@ -545,3 +546,4 @@ Step 3: Evaluating 3 candidates for relevance
 Found 1 memories:
 1. Learning_Spanish: I want to learn Spanish to improve my career prospects.
 ✓ Correctly found 1/2 expected memories. (Partially matched)
+```
