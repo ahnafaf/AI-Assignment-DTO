@@ -1,4 +1,3 @@
-Okay, here is a README focusing on explaining your approach for the assignment, written in normal language and suitable for accompanying the Jupyter Notebook.
 
 
 # Assignment Solution: Hybrid Memory Retrieval for AI Assistants
